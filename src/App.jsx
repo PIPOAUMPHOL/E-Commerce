@@ -1,12 +1,16 @@
 import Nav from "./components/Nav";
-import Section from "./components/Section";
+import SectionFeaturedProducts from "./components/section/FeaturedProducts";
 import Footer from "./components/Footer";
+import SectionProductCategories from "./components/section/ProductCategories";
+import SectionSubcribeNewsletter from "./components/section/SubscribeNewsletter";
 
 function App() {
   return (
     <>
       <Nav />
-      <Section />
+      <SectionFeaturedProducts />
+      <SectionProductCategories />
+      <SectionSubcribeNewsletter />
       <Footer />
     </>
   );

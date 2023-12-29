@@ -1,14 +1,3 @@
-import {
-  BeakerIcon,
-  HomeIcon,
-  ShoppingCartIcon,
-  DevicePhoneMobileIcon,
-  ComputerDesktopIcon,
-  MusicalNoteIcon,
-  ShoppingBagIcon,
-  VideoCameraIcon,
-} from "@heroicons/react/24/solid";
-
 function Footer() {
   return (
     <footer className="bg-gray-800 text-white py-4">

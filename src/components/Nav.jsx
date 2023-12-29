@@ -3,10 +3,6 @@ import {
   HomeIcon,
   ShoppingCartIcon,
   DevicePhoneMobileIcon,
-  ComputerDesktopIcon,
-  MusicalNoteIcon,
-  ShoppingBagIcon,
-  VideoCameraIcon,
 } from "@heroicons/react/24/solid";
 
 function Nav() {
