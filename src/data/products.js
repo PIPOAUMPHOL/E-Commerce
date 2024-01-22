@@ -1,26 +1,6 @@
 export const products = [
   {
     id: 1,
-    name: "Premium Bluetooth Headphones",
-    category: "Electronics",
-    description:
-      "Enjoy high-quality audio with these premium Bluetooth headphones. They feature noise cancellation technology and a long battery life.",
-    price: 99.99,
-    numberOfSold: 500,
-    image:
-      "https://res.cloudinary.com/techupth/image/upload/v1686988245/fullstack-ecommerce-app/products/smart-watch_zvu0hn.jpg",
-    ratings: {
-      average: 4.5,
-      total: 200,
-      fiveStar: 120,
-      fourStar: 60,
-      threeStar: 15,
-      twoStar: 3,
-      oneStar: 2,
-    },
-  },
-  {
-    id: 2,
     name: "Classic Leather Watch",
     category: "Fashion",
     description:
@@ -39,7 +19,7 @@ export const products = [
     },
   },
   {
-    id: 3,
+    id: 2,
     name: "Organic Green Tea",
     category: "Food & Beverage",
     description:
@@ -58,7 +38,7 @@ export const products = [
     },
   },
   {
-    id: 4,
+    id: 3,
     name: "Smart Home Security System",
     category: "Home & Garden",
     description:
@@ -77,7 +57,7 @@ export const products = [
     },
   },
   {
-    id: 5,
+    id: 4,
     name: "Fitness Tracker Watch",
     category: "Sports & Fitness",
     description:
@@ -96,7 +76,7 @@ export const products = [
     },
   },
   {
-    id: 6,
+    id: 5,
     name: "Portable Bluetooth Speaker",
     category: "Electronics",
     description:
@@ -115,7 +95,7 @@ export const products = [
     },
   },
   {
-    id: 7,
+    id: 6,
     name: "Premium Leather Wallet",
     category: "Fashion",
     description:
@@ -134,7 +114,7 @@ export const products = [
     },
   },
   {
-    id: 8,
+    id: 7,
     name: "Natural Soy Candle Set",
     category: "Home & Garden",
     description:
