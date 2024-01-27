@@ -3,7 +3,6 @@ This project is currently under development, and only the search feature is avai
 
 <h1>Features</h1>
 <ul>
-  <li>Search: ✔️</li>
   <li>Other features: 🚧 (Under Development)</li>
 </ul>
 <h2></h2>
